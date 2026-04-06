@@ -2,7 +2,7 @@ class Sispack < Formula
   desc "Track and analyze installed package sizes on your system"
   homepage "https://github.com/vishalwork/sispack"
   url "https://github.com/vishalwork/sispack/archive/refs/tags/v1.1.tar.gz"
-  sha256 "d5558cd419c8d46bdc958064cb97f963d1ea793866414c025906ec15033512ed"
+  sha256 "4f428d2e1b768422761e86c1e2964cb827c8573895b045e31ad2446b28ed1cb3"
   license "MIT"
 
   def install
